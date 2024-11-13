@@ -1,4 +1,5 @@
 # blog_frontend
+![image](https://github.com/user-attachments/assets/3d7fae33-f0c7-486e-bfb8-8fc68a88fa72)
 
 ## Project setup
 ```
